@@ -2,7 +2,7 @@
 title: An IaC Journey
 summary: Sharing our Infrastructure-As-Code journey as we bootstrapped it and have been improving on when building DXP Cloud.
 date: 2022-01-07
-tags: 
+tags:
   - Cloud
   - Neptune
   - DXP Cloud
@@ -17,7 +17,7 @@ Quickly we realized that using Azure’s portal as the primary interface for bui
 
 ## The High Level Design
 
-I've decicated a short blog post on explaining [what DXP Cloud is and how it works](/2021-12-05-dxp-cloud). However, I'll steal the diagram for a moment to discuss a few things.
+I've decicated a short blog post on explaining [what DXP Cloud is and how it works](./2021-12-05-dxp-cloud.md). However, I'll steal the diagram for a moment to discuss a few things.
 
 ![diagram](./assets/dxp-cloud-architecture.png)
 
@@ -27,7 +27,7 @@ We can define the **Static Infrastructe** mostly as the "platform itself", while
 
 **Static Cloud Resource Example**
 
-> Our Azure API Management Service. This is only modified, when one of our engineers would like to expose a new REST API endpoint. 
+> Our Azure API Management Service. This is only modified, when one of our engineers would like to expose a new REST API endpoint.
 
 **Dynamic Cloud Resource Example**
 
@@ -47,7 +47,7 @@ Let’s move on and iterate over these shenanigans!
 
 ### Iteration 1: ARM Templates & Powershell
 
-One of our principles is “Start off with native tooling when available, and pick another once the existing tooling becomes limited and you understand the requirements”, as we were only with 2 engineers, we can’t afford to educate ourselves about tens of 3rd party tooling, and be productive! 
+One of our principles is “Start off with native tooling when available, and pick another once the existing tooling becomes limited and you understand the requirements”, as we were only with 2 engineers, we can’t afford to educate ourselves about tens of 3rd party tooling, and be productive!
 
 We started off with a single GitHub repository for versioning and collaboration. ARM Templates gave us a declarative approach to define our infrastructure. However, we still end up relying heavily on Powershell cmdlets and the Azure CLI because of operations that were not supported with ARM templates, or are not related to ARM itself (e.g. generating certificates).
 
@@ -59,7 +59,7 @@ Adopting git, scripting, and ARM templates, we felt already much more at home as
 
 ### Iteration 2: Terraform by beginners
 
-The mix of declarative and imperative didn’t sit with us well. After some research, we decided on adapting Terraform as it would remove our need of combining “imperative” and “declarative” methodologies and use solely a declarative approach. 
+The mix of declarative and imperative didn’t sit with us well. After some research, we decided on adapting Terraform as it would remove our need of combining “imperative” and “declarative” methodologies and use solely a declarative approach.
 
 The main concern was that, as Terraform is a 3rd party tool, it would not keep pace with the latest and greatest compared to Azure’s own tooling. However, in return, we would get a much cleaner, declarative approach to defining our infrastructure, in a less verbose file format (HCL, Hashicorp Configuration Language). It would require some education, but the returns on investment seemed worthy.
 
@@ -95,7 +95,7 @@ Thanks to the Terraform module registry, offered by Terraform cloud, we could ea
 
 At this point in time, we were quite happy, we have a good deployment pipeline, we have smaller modules, we’re gradually decoupling. Our entire workflow really starts to feel like a software development pipeline! Still, some work is to be done on decoupling our Terraform modules, but a change in architecture and modules is a constant, so we can’t ever claim to be “done”.
 
-What were we still missing from our workflow then? Security and testing! 
+What were we still missing from our workflow then? Security and testing!
 
 **Security**: We wanted to make security a more integral part of our pipeline, often referred to in the industry as “shift left”. We adopted Checkov in our pipeline (https://www.checkov.io/).
 
