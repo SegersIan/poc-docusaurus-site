@@ -16,7 +16,7 @@
 - https://finchsec.com/courses/wifi-exploitation-101/
 - https://github.com/aircrack-ng/aircrack-ng
 - git@github.com:xwmx/airport.git
-- `netstat` for checking all active ports 
+- `netstat` for checking all active ports
 - Wireshark - Sniff packets in local machine or network
 
 ### Grouped
@@ -79,7 +79,7 @@
 
 ## Web Mirroring / Website footprinting
 
-- [HTTrack](www.httrack.com)
+- [HTTrack](https://www.httrack.com)
 - [Black Widow](https://softbytelabs.com/wp/)
 - [WebRippter](https://webripper.software.informer.com/download/ (Not OFFICIAL DOWNLOAD)
 - [Backstreet Browser](http://www.spadixbd.com/)
@@ -105,9 +105,9 @@
 - https://www.microsoft.com/en-us/securityengineering/opensource/
 - [OOSTMM - Open Source Security Testing Methodology Manual](https://www.isecom.org/research.html)
 - https://www.tenable.com/products/nessus
-- [Way Back Machine](www.archive.org) - (In history, some interesting formation can be found on company sites or so)
+- [Way Back Machine](https://www.archive.org) - (In history, some interesting formation can be found on company sites or so)
 - [Website watcher](https://www.aignes.com/) - Wath websites and notify if anything changes
-- https://www.shodan.io/ - Find anything connected    
+- https://www.shodan.io/ - Find anything connected
 
 ## Vulnerability Databases
 
@@ -118,4 +118,3 @@
 - www.securitymagazine.com
 - www.trendmicro.com
 - www.darkreading.com
-

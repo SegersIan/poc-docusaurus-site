@@ -37,7 +37,7 @@ Data Structures often differ in their efficiency for each sorting algorithm and 
 
 * [Binary Search](algorithms/binary-search.md)
 * [Linear Search](algorithms/linear-search.md)
-* [Bubble Sort](algorithms/bibble-sort.md)
+* [Bubble Sort](algorithms/bubble-sort.md)
 * [Selection Sort](algorithms/selection-sort.md)
 * [Insertion Sort](algorithms/insertion-sort.md)
 * [Quicksort](algorithms/quick-sort.md)
@@ -92,4 +92,3 @@ For obtaining asymptotic Θ or O bounds on the solution.
 * **Substitution**: Guess a bound and then use math to prove our guess is right.
 * **Recursion-tree**: Convert the recurruence into a tree whose nodes represent the costs incurred at different levels of the recursion. We use techniques for bounding summations to solve the recurrence.
 * **Master**: Provide bounds for recurrences of the form `T(n) = aT(n/b) + f(n)`
-

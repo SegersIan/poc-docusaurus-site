@@ -16,7 +16,7 @@ Writing organizes and clarifies our thoughts. You might fear that "simple, clear
 
 ## Types Of Non-Fiction Writing
 
-### Types defined by William Zissner 
+### Types defined by William Zissner
 
 *From the books on learning to write and writing well.*
 
@@ -48,7 +48,7 @@ Both writing skills are necessary, all can be thought and honed, none of it is a
 * Evaluating
 * Creating
 
-[See imgage](assets/imgjpg)
+[See imgage](assets/img1.jpg)
 
 ## Type 1: Explanatory Writing
 
@@ -72,7 +72,7 @@ This are all soft rules.
 * Don’t repeat recently mention information.
 * Don't use adjectives that are implied (tall skyscraper)
 * The more vague your ideas, the less confident or selling you sound.
-* Write in first person, its more intimate, if your writing is good, your writing is worthy, people will care about your say. Don’t be shy or think you are egocentric. 
+* Write in first person, its more intimate, if your writing is good, your writing is worthy, people will care about your say. Don’t be shy or think you are egocentric.
    * Some areas don’t allow this, like writing newspapers.
 * Unity to the same pronoun (talking 1st, 2nd or 3th person) across your text. (formal, informal)
 * Unity in tense (past, current, ...)
@@ -80,7 +80,7 @@ This are all soft rules.
    * E.g. Start of conversational, then switch to sound as a travel guide.
 * Have more research material or detail than necessary, so you can pick what works well for you.
 * Narrative is oldest and most compelling method of holding someones attention, everybody wants to be told a story. Always look fo says to convey information in narrative form.
-* To conceal meaning is equally to conceal the lack of meaning 
+* To conceal meaning is equally to conceal the lack of meaning
 * Sentences should have people in them
 * Copy styles you like, as you mature, you will split of in your own style. There is no shame in copying a style you like and that works.
 
@@ -99,12 +99,12 @@ This are all soft rules.
 * Short: What do I want to say? Write ? Did I say what I wanted ? Review, Iterate.
 * A new paragraph can explain something or expand on something that was introduce in preceding paragraph. That's a logical order, cause the reader might wonder "What is X that he just mentioned"?
 * Another way to put it:
-   * What do I want to say? 
+   * What do I want to say?
    * Try to say it.
    * Have I said it?
    * Is this [sentence] clear to someone who knows nothing about the subject? No? Consider making it clear. Rewrite it.
-   * What do I need to say next? Will it lead logically out of what I've just written ? Will it also lead logically towards where I want to go? If it will, write the sentence. 
-   * Then ask "Did it do the hob I wanted it to do, with no ambiguity?" 
+   * What do I need to say next? Will it lead logically out of what I've just written ? Will it also lead logically towards where I want to go? If it will, write the sentence.
+   * Then ask "Did it do the hob I wanted it to do, with no ambiguity?"
    * Keep thinking and writing and rewriting.
 
 #### Tips
@@ -160,6 +160,6 @@ A great quotation form the [WAC (Writing Across The Curriculum) site](https://wa
 
 * You can find [here examples](https://wac.colostate.edu/repository/teaching/intro/wtl/wtlactivities) on different "Writing-To-Learn" (WTL) activities.
 
-> Theoreticians and practitioners alike agree that writing promotes both critical thinking and learning 
+> Theoreticians and practitioners alike agree that writing promotes both critical thinking and learning
 
 > Writing to communicate—or what James Britton calls "transactional writing"—means writing to accomplish something, to inform, instruct, or persuade.... Writing to learn is different. We write to ourselves as well as talk with others to objectify our perceptions of reality; the primary function of this "expressive" language is not to communicate, but to order and represent experience to our own understanding. In this sense language provides us with a unique way of knowing and becomes a tool for discovering, for shaping meaning, and for reaching understanding. (p. x)

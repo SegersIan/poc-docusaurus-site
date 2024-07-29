@@ -125,8 +125,8 @@ You can also make the thing you say no a 3th party object. "I'm  afraid I have t
 * [What to know about ATS](https://www.jobscan.co/applicant-tracking-systems#)
 * [ATS Resume Templates](https://www.jobscan.co/resume-templates/ats-templates) exist
 * Use ChatGPT: "create a prompt called you are my resume creator”,
-* Use [SkillSyncer](www.skillsyncer.com) to test your resume ATS score.
-* Use [InstaResume](www.instaresume.io) for nice templates
+* Use [SkillSyncer](https://www.skillsyncer.com) to test your resume ATS score.
+* Use [InstaResume](https://www.instaresume.io) for nice templates
 
 ### Cover Letter Template
 ```
